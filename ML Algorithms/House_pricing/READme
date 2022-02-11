@@ -12,7 +12,13 @@ simple Data cleaning process of the data set is done in both the test as well th
 by using different features the price of the house is been checked and analysed
 and the ones which were not relevant to the problem are droped leaving us with the extracted features
 Price of the house is been calculated using linear machine learning algorithem
-and the accuracy of 
+and the accuracy of 70% apporx is obtained.
+
+
+Improvments:
+
+Imporvements in this project can be done with more carefully analysing the dataset
+and also by using different algorithm such as deep learning algorithm(ANN) the accuracy of the model can be improved.
 
 
 
