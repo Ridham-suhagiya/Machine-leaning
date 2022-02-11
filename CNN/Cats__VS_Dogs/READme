@@ -9,7 +9,7 @@ Methedology:
 
 Used Cnn in this project and the optimizer used in SGD.
 
-Results:
+Results: Accuracy of 83% on the test data is obtian.
 
 
 
