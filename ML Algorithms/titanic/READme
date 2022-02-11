@@ -1,1 +1,39 @@
+Project Description:
+
+In the project the status of the persons ability to survive a given condition is done.
+Every person sailing on the ship on the when titanic crashed onto the icburg ability is been calculated.
+
+Data Description:
+
+Data is taken from Kaggle
+
+Test.csv
+Train.csv
+
+
+Approach: 
+
+According to me after analysing the data, I felt like Age,Sex,Pclass and price were the important features to be taken care of 
+and we in this project are not conserned with the rest of features.
+
+In these Features there are null values present in the age column and to recover those null values I have
+used a approach in which I have used the respect term on an individual in the ship to assume the age of the passenger.
+
+Mehtodology: 
+
+Two methods are used in this project 
+1) Logistic Regression : Because the target data was in binary classification
+2) SVM : To use the features to classify them and divide them into 2 categories (which is survive or not survive)
+
+Results:
+
+1) Logistice Regression : 77 %
+2) SVM : 76%
+
+Improvements:
+
+By using confusion matrix to check the dependencies of a perticular feature to the problem 
+and by using the appropriat algorithm such as randomforest will surely improve the problem.
+
+
 
