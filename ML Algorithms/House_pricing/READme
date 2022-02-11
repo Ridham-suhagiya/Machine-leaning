@@ -1,1 +1,19 @@
+PROJECT Description : 
+Figuring out the price of the house using the features perent in the datasets
+
+Dataset:
+Dataset is been taken from kaggle
+test.csv
+train.csv
+
+Code: 
+
+simple Data cleaning process of the data set is done in both the test as well the train dataset.
+by using different features the price of the house is been checked and analysed
+and the ones which were not relevant to the problem are droped leaving us with the extracted features
+Price of the house is been calculated using linear machine learning algorithem
+and the accuracy of 
+
+
+
 
