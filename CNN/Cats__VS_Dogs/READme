@@ -1,1 +1,15 @@
+Project Description:
+In this project we are detecting whether the given image is of a cat or dog.
+
+Data Description:
+Data set is a set of different images which consists of cats as well as dogs.
+This set of data is downloaded from keggle.
+
+Methedology:
+
+Used Cnn in this project and the optimizer used in SGD.
+
+Results:
+
+
 
